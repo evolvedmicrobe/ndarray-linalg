@@ -37,7 +37,7 @@ thiserror = "1.0.20"
 
 [dependencies.ndarray]
 version = "0.14"
-features = ["blas", "approx"]
+features = ["blas"]
 default-features = false
 
 [dependencies.lax]
